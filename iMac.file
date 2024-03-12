@@ -1,2 +1,7 @@
 created in Vs studio on iMac
+<<<<<<< HEAD
 This line is from feature branch
+=======
+adding line from Bash on windos
+adding second line from Dev branch
+>>>>>>> Dev/ranjan
